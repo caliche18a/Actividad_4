@@ -1,9 +1,9 @@
 # Analisis interactivo de mortalidad en Colombia 2019
 
 ## Estudiantes de la maestría en Inteligencia Articial
-Carlos Enrique Jiménez Avendaño
-Gustavo Alberto Guerrero Polanco
-Osman Angulo
+- Carlos Enrique Jiménez Avendaño
+- Gustavo Alberto Guerrero Polanco
+- Osman Angulo
 
 ## Sobre la aplicación web
 
