@@ -63,8 +63,8 @@ Las versiones compatibles estan definidas en `requirements.txt`.
 ## Instalacion local
 
 ```bash
-git clone URL_DEL_REPOSITORIO
-cd NOMBRE_DEL_REPOSITORIO
+git clone https://github.com/caliche18a/Actividad_4
+cd Actividad_4
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
