@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: mortalidad-colombia-2019
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:server
+    autoDeploy: true
