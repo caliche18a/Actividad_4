@@ -1,5 +1,12 @@
 # Analisis interactivo de mortalidad en Colombia 2019
 
+## Estudiantes de la maestría en Inteligencia Articial
+Carlos Enrique Jiménez Avendaño
+Gustavo Alberto Guerrero Polanco
+Osman Angulo
+
+## Sobre la aplicación web
+
 Aplicacion web desarrollada con Python, Dash y Plotly para explorar los registros de mortalidad no fetal en Colombia durante 2019. El proyecto usa los anexos del DANE, la codificacion CIE-10 de causas de muerte, la division politico-administrativa DIVIPOLA y un archivo GeoJSON de departamentos.
 
 ![Captura del dashboard](docs/screenshots/dashboard.png)
