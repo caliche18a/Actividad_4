@@ -62,7 +62,7 @@ def build_layout() -> html.Main:
                             html.H1("Análisis interactivo de mortalidad no fetal"),
                             html.H4("Carlos Enrique Jiménez Avendaño"),
                             html.H4("Gustavo Alberto Guerrero Polanco"),
-                            html.H4("Osman Angulo"),
+                            html.H4("Osman Eduardo Angulo Lozano"),
                         ]
                     ),
                     html.Div(

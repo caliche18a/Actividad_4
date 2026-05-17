@@ -3,7 +3,7 @@
 ## Estudiantes de la maestría en Inteligencia Articial
 - Carlos Enrique Jiménez Avendaño
 - Gustavo Alberto Guerrero Polanco
-- Osman Angulo
+- Osman Eduardo Angulo Lozano
 
 ## Sobre la aplicación web
 
@@ -78,16 +78,11 @@ set PORT=3000
 python scripts/run_local.py
 ```
 
-## Despliegue en Render
+## Despliegue y repositorio
 
-1. Subir el proyecto a GitHub, incluyendo `app.py`, `requirements.txt`, `Procfile`, `render.yaml`, carpetas `models/`, `controllers/`, `views/`, `assets/` y `data/`.
-2. Crear un nuevo servicio Web en Render y conectar el repositorio.
-3. Usar ambiente Python.
-4. Build command: `pip install -r requirements.txt`
-5. Start command: `gunicorn app:server`
-6. Esperar el despliegue y copiar la URL publica para la entrega.
+La aplicación fue desarrollada localmente utilizando Python, Dash y Plotly, posteriormente versionada y cargada en un repositorio de GitHub para control de versiones y automatización del despliegue.
 
-El archivo `render.yaml` deja estos valores listos para despliegue tipo blueprint.
+El despliegue en producción se realizó sobre Microsoft Azure App Service utilizando una cuenta institucional universitaria de la Universidad de La Salle. La integración continua se configuró conectando el repositorio de GitHub directamente con Azure para automatizar las implementaciones.
 
 ## Software utilizado
 
@@ -110,6 +105,10 @@ El archivo `render.yaml` deja estos valores listos para despliegue tipo blueprin
 
 ## Datos de entrega
 
-- Integrantes: completar con nombres completos.
-- URL de la aplicacion desplegada: completar despues del despliegue.
-- URL del repositorio en GitHub: completar despues de subir el proyecto.
+- Integrantes: 
+### Carlos Enrique Jiménez Avendaño
+### Gustavo Alberto Guerrero Polanco
+### Osman Eduardo Angulo Lozano
+
+- URL de la aplicacion desplegada: [completar despues del despliegue.](https://actividad-4-awgsc0ezgvhxdua8.canadacentral-01.azurewebsites.net/)
+- URL del repositorio en GitHub: https://github.com/caliche18a/Actividad_4
