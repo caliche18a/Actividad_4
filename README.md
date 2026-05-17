@@ -110,5 +110,5 @@ El despliegue en producción se realizó sobre Microsoft Azure App Service utili
 ### Gustavo Alberto Guerrero Polanco
 ### Osman Eduardo Angulo Lozano
 
-- URL de la aplicacion desplegada: [completar despues del despliegue.](https://actividad-4-awgsc0ezgvhxdua8.canadacentral-01.azurewebsites.net/)
+- URL de la aplicacion desplegada: (https://actividad-4-awgsc0ezgvhxdua8.canadacentral-01.azurewebsites.net/)
 - URL del repositorio en GitHub: https://github.com/caliche18a/Actividad_4
